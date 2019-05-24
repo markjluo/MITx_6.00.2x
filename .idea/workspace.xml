@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6091d6a7-069a-43f8-8d7c-478b8a1d8012" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Scratch.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Scrap.py" />
+        <option value="$PROJECT_DIR$/Week 1/W1_Exercise 1_Brute Force Algorithm.py" />
+        <option value="$PROJECT_DIR$/../../6.00.1x_Intro to CS and Programming in Python/MITOCW 6.001/Week 3/W3_Lecture_Efficient Fibonacci with a Dictionary.py" />
+        <option value="$PROJECT_DIR$/../Lecture Materials/Lecture 2_Decision Trees and Dynamic Programming/lecture2-segment3.py" />
+        <option value="$PROJECT_DIR$/Week 1/Lecture 3_Exercise 2_Students in Line.py" />
+        <option value="$PROJECT_DIR$/../Lecture Materials/Lecture 3_Graph Problems/lecture3-segment3.py" />
+        <option value="$PROJECT_DIR$/Week 1/a.py" />
+        <option value="$PROJECT_DIR$/Week 1/Lecture 3_DFS and BFS.py" />
+        <option value="$PROJECT_DIR$/Week 1/W1_Lecture 3.py" />
+        <option value="$PROJECT_DIR$/Week 1/W1_Greedy Algorithms_Transport Sheep.py" />
+        <option value="$PROJECT_DIR$/Week 1/pset1/ps1_partition.py" />
+        <option value="$PROJECT_DIR$/Week 1/pset1/ps1.py" />
+        <option value="$PROJECT_DIR$/Week 1/W1_Brute Force Algorithm_Transport Sheep.py" />
+        <option value="$PROJECT_DIR$/Week 1/pset1/Test.py" />
+        <option value="$PROJECT_DIR$/Week 2/W2.py" />
+        <option value="$PROJECT_DIR$/Week 2/Plotting/W2.py" />
+        <option value="$PROJECT_DIR$/Week 2/Plotting/Plotting.py" />
+        <option value="$PROJECT_DIR$/Week 2/Plotting/Plotting_Retirement visualization.py" />
+        <option value="$PROJECT_DIR$/Week 2/Lecture 5_Stochastic Thinking/Stochastic Model.py" />
+        <option value="$PROJECT_DIR$/../Lecture Materials/Lecture 6_Random Walks/lect6-segment2.py" />
+        <option value="$PROJECT_DIR$/Week 2/pset2/ps2.py" />
+        <option value="$PROJECT_DIR$/Week 1/W1_Sort Tuples With Lambda.py" />
+        <option value="$PROJECT_DIR$/Exam 1/Problem 3_Greedy Algorithm.py" />
+        <option value="$PROJECT_DIR$/Exam 1/Problem 4_Max Sum of Contiguous Subsequence.py" />
+        <option value="$PROJECT_DIR$/Week 2/Lecture 6_Random Walks/Location, Field, and Drunk.py" />
+        <option value="$PROJECT_DIR$/Exam 1/Problem 7_Test Function.py" />
+        <option value="$PROJECT_DIR$/../Lecture Materials/Lecture 7_Inferential Statistics/lecture7-segment1.py" />
+        <option value="$PROJECT_DIR$/Week 2/pset2/Test.py" />
+        <option value="$PROJECT_DIR$/Week 3/Lecture 7_Inferential Statistics/Excercise 3_SD of String Lengths.py" />
+        <option value="$PROJECT_DIR$/Week 3/Lecture 7_Inferential Statistics/lecture7-segment3.py" />
+        <option value="$PROJECT_DIR$/Week 3/Lecture 8 _Monte Carlo Simulations/flipcoin.py" />
+        <option value="$PROJECT_DIR$/Week 3/Lecture 8 _Monte Carlo Simulations/Simulating Buffon-Laplace Method.py" />
+        <option value="$PROJECT_DIR$/Week 3/Lecture 8 _Monte Carlo Simulations/No Replacement Simulation.py" />
+        <option value="$PROJECT_DIR$/Week 3/Lecture 9_Sampling and Standard Error/lecture9-segment1.py" />
+        <option value="$PROJECT_DIR$/Week 3/Lecture 9_Sampling and Standard Error/Excercise 2.py" />
+        <option value="$PROJECT_DIR$/Week 3/Lecture 9_Sampling and Standard Error/lecture9-segment4.py" />
+        <option value="$PROJECT_DIR$/Week 3/Lecture 9_Sampling and Standard Error/ProblemSet3/Bugs.py" />
+        <option value="$PROJECT_DIR$/Week 3/Lecture 9_Sampling and Standard Error/ProblemSet3/ps3b.py" />
+        <option value="$PROJECT_DIR$/Week 3/Lecture 9_Sampling and Standard Error/ProblemSet3/Test.py" />
+        <option value="$PROJECT_DIR$/../../../../lectureCode_L17_code.py" />
+        <option value="$PROJECT_DIR$/Week 4/pset4/ps4.py" />
+        <option value="$PROJECT_DIR$/Week 4/Experimental Data Part 1/lectureCode_L17_code.py" />
+        <option value="$PROJECT_DIR$/Week 4/pset4/Test.py" />
+        <option value="$PROJECT_DIR$/Scratch.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="207" />
+    <option name="y" value="37" />
+    <option name="width" value="1267" />
+    <option name="height" value="785" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MITx_6.00.2x" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MITx_6.00.2x" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MITx_6.00.2x" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MITx_6.00.2x" type="462c0819:PsiDirectoryNode" />
+              <item name="Week 4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MITx_6.00.2x" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MITx_6.00.2x" type="462c0819:PsiDirectoryNode" />
+              <item name="Week 4" type="462c0819:PsiDirectoryNode" />
+              <item name="Experimental Data Part 1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MITx_6.00.2x" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MITx_6.00.2x" type="462c0819:PsiDirectoryNode" />
+              <item name="Week 4" type="462c0819:PsiDirectoryNode" />
+              <item name="Experimental Data Part 2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MITx_6.00.2x" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MITx_6.00.2x" type="462c0819:PsiDirectoryNode" />
+              <item name="Week 4" type="462c0819:PsiDirectoryNode" />
+              <item name="pset4" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Scratch">
+    <configuration name="Scratch" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MITx_6.00.2x" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Mark\PycharmProjects\Project\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scratch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MITx_6.00.2x" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 4/pset4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 4/pset4/Test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MITx_6.00.2x" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 3/Lecture 9_Sampling and Standard Error/ProblemSet3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 3/Lecture 9_Sampling and Standard Error/ProblemSet3/Test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lectureCode_L17_code" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MITx_6.00.2x" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 4/Experimental Data Part 1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 4/Experimental Data Part 1/lectureCode_L17_code.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ps3b" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MITx_6.00.2x" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 3/Lecture 9_Sampling and Standard Error/ProblemSet3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 3/Lecture 9_Sampling and Standard Error/ProblemSet3/ps3b.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Scratch" />
+      <item itemvalue="Python.Test (1)" />
+      <item itemvalue="Python.Test" />
+      <item itemvalue="Python.lectureCode_L17_code" />
+      <item itemvalue="Python.ps3b" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Scratch" />
+        <item itemvalue="Python.Test (1)" />
+        <item itemvalue="Python.lectureCode_L17_code" />
+        <item itemvalue="Python.Test" />
+        <item itemvalue="Python.ps3b" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6091d6a7-069a-43f8-8d7c-478b8a1d8012" name="Default Changelist" comment="" />
+      <created>1555608594766</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555608594766</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <layout>
+      <window_info id="Structure" order="0" side_tool="true" weight="0.24968314" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="2" weight="0.5931559" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.46971735" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39973083" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32974428" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32974428" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32974428" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Week 1/W1_Greedy Algorithms_Transport Sheep.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Week 3/Lecture 9_Sampling and Standard Error/ProblemSet3/Bugs.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Week 1/Lecture 3_DFS and BFS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="165" column="19" lean-forward="true" selection-start-line="165" selection-start-column="19" selection-end-line="165" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Lecture Materials/Lecture 3_Graph Problems/lecture3-segment3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1729">
+          <caret line="159" selection-start-line="159" selection-end-line="159" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 1/W1_Greedy Algorithms_Transport Sheep.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="86" column="39" lean-forward="true" selection-start-line="86" selection-start-column="39" selection-end-line="86" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 1/W1_Lecture 3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="116" column="12" selection-start-line="116" selection-start-column="12" selection-end-line="116" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 1/Lecture 2_Exercise 1_Brute Force Algorithm_Two Knapsacks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-538">
+          <caret line="29" column="65" lean-forward="true" selection-start-line="29" selection-start-column="65" selection-end-line="29" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 1/pset1/ps1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="134" lean-forward="true" selection-start-line="134" selection-end-line="134" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 1/pset1/ps1_partition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 1/W1_Brute Force Algorithm_Transport Sheep.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1500">
+          <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 1/pset1/ps1_cow_data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" lean-forward="true" selection-start-column="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 1/pset1/Test.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 2/W2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 2/Plotting/Plotting_Retirement visualization.py" />
+    <entry file="file://$PROJECT_DIR$/Week 2/Plotting/Plotting.py" />
+    <entry file="file://$PROJECT_DIR$/Week 2/Lecture 5_Stochastic Thinking/Stochastic Model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Lecture Materials/Lecture 6_Random Walks/lect6-segment2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="46" column="28" selection-start-line="46" selection-start-column="28" selection-end-line="46" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 2/pset2/ps2_visualize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="92" column="25" selection-start-line="92" selection-start-column="25" selection-end-line="92" selection-end-column="25" />
+          <folding>
+            <element signature="e#125#136#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 2/pset2/ps2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="342" column="68" selection-start-line="342" selection-start-column="68" selection-end-line="342" selection-end-column="68" />
+          <folding>
+            <element signature="e#44#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 1/W1_Sort Tuples With Lambda.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="46" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam 1/Problem 3_Greedy Algorithm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-227">
+          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam 1/Problem 4_Max Sum of Contiguous Subsequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 2/Lecture 6_Random Walks/Location, Field, and Drunk.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="69" column="23" lean-forward="true" selection-start-line="69" selection-start-column="23" selection-end-line="69" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam 1/Problem 7_Test Function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 2/pset2/Test.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Lecture Materials/Lecture 7_Inferential Statistics/lecture7-segment1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 3/Lecture 7_Inferential Statistics/Excercise 3_SD of String Lengths.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 3/Lecture 7_Inferential Statistics/lecture7-segment2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3388">
+          <caret line="121" column="41" lean-forward="true" selection-start-line="121" selection-start-column="41" selection-end-line="121" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 3/Lecture 7_Inferential Statistics/lecture7-segment3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="503">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../flipcoin.py" />
+    <entry file="file://$PROJECT_DIR$/Week 3/Lecture 8 _Monte Carlo Simulations/lecture8-segment1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 3/Lecture 8 _Monte Carlo Simulations/flipcoin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 3/Lecture 8 _Monte Carlo Simulations/Simulating Buffon-Laplace Method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1147">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 3/Lecture 8 _Monte Carlo Simulations/No Replacement Simulation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="37" column="34" lean-forward="true" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 3/Lecture 9_Sampling and Standard Error/lecture9-segment1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="60" column="36" lean-forward="true" selection-start-line="60" selection-start-column="36" selection-end-line="60" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 3/Lecture 9_Sampling and Standard Error/julytemps.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 3/Lecture 9_Sampling and Standard Error/Excercise 2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 3/Lecture 9_Sampling and Standard Error/lecture9-segment3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1805">
+          <caret line="95" column="58" lean-forward="true" selection-start-line="95" selection-start-column="58" selection-end-line="95" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 3/Lecture 9_Sampling and Standard Error/lecture9-segment4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="73" column="45" lean-forward="true" selection-start-line="73" selection-start-column="45" selection-end-line="73" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 3/Lecture 9_Sampling and Standard Error/ProblemSet3/Bugs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 3/Lecture 9_Sampling and Standard Error/ProblemSet3/ps3b.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1192">
+          <caret line="378" column="75" lean-forward="true" selection-start-line="378" selection-start-column="75" selection-end-line="378" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 3/Lecture 9_Sampling and Standard Error/ProblemSet3/Test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3857">
+          <caret line="151" column="21" selection-start-line="151" selection-start-column="21" selection-end-line="151" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../lectureCode_L17_code.py" />
+    <entry file="file://$PROJECT_DIR$/Week 4/Experimental Data Part 1/springData.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 4/Experimental Data Part 1/mysteryData.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 4/Experimental Data Part 1/lecture10-segment1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="49" column="44" selection-start-line="49" selection-start-column="44" selection-end-line="49" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 4/Experimental Data Part 2/lecture11-segment2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="37" lean-forward="true" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 4/Experimental Data Part 1/lectureCode_L17_code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1129">
+          <caret line="86" lean-forward="true" selection-start-line="86" selection-end-line="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 4/Experimental Data Part 2/lecture11-segment3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 4/pset4/ps4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3667">
+          <caret line="195" column="39" selection-start-line="195" selection-start-column="39" selection-end-line="195" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scratch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 4/pset4/Test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3154">
+          <caret line="168" column="42" selection-start-line="168" selection-start-column="42" selection-end-line="168" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 4/pset4/data.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
